@@ -14,5 +14,7 @@
 hs_err_pid*
 
 # IDEA
+build/
 .idea/libraries/
+.idea/misc.xml
 .idea/workspace.xml
