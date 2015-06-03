@@ -1,4 +1,4 @@
-package com.teamtreehouse.trendy.web;
+package com.trendy.web;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.stereotype.Controller;

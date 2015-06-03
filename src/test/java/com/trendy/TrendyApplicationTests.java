@@ -1,4 +1,4 @@
-package com.teamtreehouse.trendy;
+package com.trendy;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
