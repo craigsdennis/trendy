@@ -1,0 +1,1 @@
+insert into trend_profile(id, name) VALUES (1, 'indeed.com');

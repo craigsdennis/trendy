@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:th="http://www.thymeleaf.org">
 <head>
     <title>Trendy</title>
 </head>
 <h1>Welcome to Trendy</h1>
+<div th:each="profile : ${page}">
+    <div th:text="${profile.getName()}">Yep</div>
+</div>
 </html>
